@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MakeNotes/static/css/main.16e03aec.css",
-    "main.js": "/MakeNotes/static/js/main.b957e272.js",
+    "main.js": "/MakeNotes/static/js/main.c807b565.js",
     "static/js/787.97a945da.chunk.js": "/MakeNotes/static/js/787.97a945da.chunk.js",
     "index.html": "/MakeNotes/index.html",
     "main.16e03aec.css.map": "/MakeNotes/static/css/main.16e03aec.css.map",
-    "main.b957e272.js.map": "/MakeNotes/static/js/main.b957e272.js.map",
+    "main.c807b565.js.map": "/MakeNotes/static/js/main.c807b565.js.map",
     "787.97a945da.chunk.js.map": "/MakeNotes/static/js/787.97a945da.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.16e03aec.css",
-    "static/js/main.b957e272.js"
+    "static/js/main.c807b565.js"
   ]
 }
